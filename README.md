@@ -3,7 +3,7 @@ Herramienta para autocompletar encuestas de la plataforma SIU guarani de la UNIC
 
 ## Instalacion local
 - Descargar y descomprimir el proyecto
-- Abrir [extensiones de chrome](chrome://extensions/) y activar el modo desarrollador que se encuentra en la parte superior derecha
+- Abrir <chrome://extensions> y activar el modo desarrollador que se encuentra en la parte superior derecha
 - Presionar el boton 'cargar descomprimida' y seleccionar la carpeta del proyecto
 
 ## Modo de uso
