@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "SIU autocomplete",
+    "description": "Extension diseñada para autocompletar encuestas en el siu guarani",
+    "version": "1.0",
+    "action": {
+        "default_icon": "icon128.png"
+    },
+    "content_scripts": [
+        {
+            "js": [
+                "scripts/content.js"
+            ],
+            "matches": [
+                "https://guarani.unicen.edu.ar/autogestion/exactas/*"
+            ]
+        }
+    ]
+}
